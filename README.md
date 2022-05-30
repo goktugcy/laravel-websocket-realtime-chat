@@ -36,3 +36,11 @@ php artisan websocket:serve
 
 
   
+## Kullanım
+
+
+
+```bash
+localhost:8000/chat/with/userid 
+localhost:8000/chat/with/1  * 
+```
