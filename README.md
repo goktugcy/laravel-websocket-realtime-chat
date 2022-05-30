@@ -6,7 +6,7 @@ Laravel websocket & laravel echo ile realtime sohbet örneği.
 
 ## Ekran Görüntüleri
 
-https://user-images.githubusercontent.com/17319750/170995446-b7f573d1-0b89-4e68-b98d-a1775d209216.mp4
+https://user-images.githubusercontent.com/17319750/170995649-ac1086be-c5ee-463e-8bbd-1f075334d47c.mp4
 
   
 ## Kurulum
